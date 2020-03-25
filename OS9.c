@@ -90,5 +90,5 @@ int main(){
 	printf("\nAverage Waiting Time     : %.2f\n",total_wt*1.0/count);
 	printf("\nAverage Turn Around Time : %.2f\n",total_tt*1.0/count);
 	
-	return 0*printf("\nSUCCESSFUL EXIT\n");
-}
+	return 0*printf("\nSUCCESSFUL EXIT\n");   
+}				//end of program
